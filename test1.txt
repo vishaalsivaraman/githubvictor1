@@ -1,2 +1,3 @@
 created test1.txt file
 learning github
+tried about commit
